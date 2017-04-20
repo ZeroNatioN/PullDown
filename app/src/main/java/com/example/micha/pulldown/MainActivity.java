@@ -53,4 +53,9 @@ public class MainActivity extends AppCompatActivity {
     private void Test(){
         int i = 1;
     }
+    
+    private void TestBranch02(){
+        int i=2;
+    }
+    
 }
